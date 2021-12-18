@@ -1,5 +1,5 @@
-# PCA_and_LogisticRegression_WineClassification
-Primer
+# PCA_and_LogisticRegression_WineClassification  
+Pr 
 PCA makes maximum variability in the dataset more visible by rotating the axes. PCA identifies a list of the principal axes to describe the underlying dataset before ranking them according to the amount of variance captured by each.
 
 PCA is an unsupervised learning algorithm as the directions of these components is calculated purely from the explanatory feature set without any reference to response variables.
